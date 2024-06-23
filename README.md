@@ -35,6 +35,6 @@ Installez les bibliothèques nécessaires :
 ## Utilisation
 Pour exécuter le jeu, utilisez la commande suivante :
 
-```bash
-python Simulation.py
+```python
+Simulation.py
 ```
