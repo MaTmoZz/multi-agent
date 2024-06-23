@@ -1,1 +1,2 @@
-# multi-agent
+Simulation Renard Poule Serpent
+Ce projet Python simule un environnement de jeu en utilisant la bibliothèque pygame. Le jeu implique trois types d'entités : des serpents, des poules et des renards, chacun ayant des comportements et des interactions spécifiques. Les entités se déplacent dans la fenêtre de jeu, évitant les obstacles et certaines zones restreintes tout en essayant de capturer ou d'échapper à d'autres entités.
