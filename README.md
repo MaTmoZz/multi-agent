@@ -21,7 +21,7 @@ Le code est structuré en plusieurs sections principales :
 6. Boucle principale du jeu.
 ## Documentation
 
-[Documentation](./documentation.pdf)
+[Documentation](./Documentation.pdf)
 
 
 ## Installation
